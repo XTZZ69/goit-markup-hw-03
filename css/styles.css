@@ -334,6 +334,9 @@ section {
 .footer-list-content {
   padding-top: 20px;
 }
+.header-link.active{
+  color: var(--accent-color);
+}
 /*PORTFOLIO STYLE*/
 /*Potrfolio Main Style*/
 .main-btn-list {
