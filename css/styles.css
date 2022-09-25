@@ -115,16 +115,20 @@ section {
   width: 281px; /*-----------------------------------------------------------------------*/
 }
 .header {
-  padding-top: 24px;
-  padding-bottom: 25px;
+ 
   border-bottom: 1px solid #ececec; /*-----------------------------------------------------------------------*/
 }
 .header-link {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
+  padding-top: 32px;
+  padding-bottom: 32px;
   letter-spacing: 0.02em;
   color: var(--primary-color);
+  padding-top: 24px;
+  padding-bottom: 25px;
+  display: block;
 }
 
 .header-tel,
